@@ -12,20 +12,27 @@ The objective of this project is to process, clean, explore, and prepare a datas
 
 ## 📁 Project Structure
 
+```
 customer-churn-analysis/
 ├── 01 Project Management/
 ├── 02 Data/
-│ ├── Original Data/
-│ └── Clean Data/
+│   ├── Original Data/
+│   └── Clean Data/
 ├── 03 Scripts/
-│ ├── 00. PII Cleaning Reporting.ipynb
-│ ├── 01. Data Cleaning and Consistency Checks.ipynb
-│ ├── 02. Exploratory Data Analysis.ipynb
-│ ├── 03. Combining Exporting.ipynb
-│ ├── 04. Derived Variables.ipynb
-│ └── 05. Visualizations.ipynb
+│   ├── 00. PII Cleaning Reporting.ipynb
+│   ├── 01. Data Cleaning and Consistency Checks.ipynb
+│   ├── 02. Exploratory Data Analysis.ipynb
+│   ├── 03. Combining Exporting.ipynb
+│   ├── 04. Derived Variables.ipynb
+│   └── 05. Visualizations.ipynb
 ├── 04 Analysis/
 └── Final Project.xlsx
+```
+
+
+Copy
+Edit
+
 
 
 ---
